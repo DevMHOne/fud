@@ -1,18 +1,18 @@
 [
   {
-    "label": "Saweria",
+    "label": "[Donation] Saweria",
     "categoryId": "support",
     "url": "https://saweria.co/fuds"
   },
 
   {
-    "label": "Trakteer",
+    "label": "[Donation] Trakteer",
     "categoryId": "support",
     "url": "https://trakteer.id/fuds/tip"
   },
 
   {
-    "label": "PayPal",
+    "label": "[Donation] PayPal",
     "categoryId": "support",
     "url": "https://paypal.me/FudPay"
   },
@@ -24,7 +24,7 @@
   },
 
   {
-    "label": "Temporary Email Address",
+    "label": "[WS] Temporary Email Address",
     "categoryId": "website",
     "url": "https://tmailku.my.id"
   },
@@ -42,13 +42,13 @@
   },
 
   {
-    "label": "FudChat Ai ChatGPT Gemini Ai",
+    "label": "[WS] FudChat Ai ChatGPT Gemini Ai",
     "categoryId": "website",
     "url": "https://fud-chat.vercel.app/"
   },
 
   {
-    "label": "Free BioLink",
+    "label": "[WS] Free BioLink",
     "categoryId": "website",
     "url": "https://biolink.eu.org/"
   }
