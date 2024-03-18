@@ -1,8 +1,8 @@
 {
   "name": "linksforall",
   "version": "3.0.1",
-  "author": "Bruno Rodrigues",
-  "repository": "itbruno/linksforall",
+  "author": "Mafut Ragil",
+  "repository": "DevMHOne/fud",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
