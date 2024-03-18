@@ -1,55 +1,55 @@
 [
   {
-    "label": "Landing page Bio.links",
-    "categoryId": "projects",
-    "url": "https://tinu.be/lpBioLinks"
+    "label": "Saweria",
+    "categoryId": "support",
+    "url": "https://saweria.co/fuds"
   },
 
   {
-    "label": "Repositório com o código do projeto Bio.links",
-    "categoryId": "projects",
-    "url": "https://tinu.be/linksforall"
+    "label": "Trakteer",
+    "categoryId": "support",
+    "url": "https://trakteer.id/fuds/tip"
   },
 
   {
-    "label": "Figma com UI do projeto Bio.links dev",
-    "categoryId": "projects",
-    "url": "https://tinu.be/uilinks"
+    "label": "PayPal",
+    "categoryId": "support",
+    "url": "https://paypal.me/FudPay"
   },
 
   {
-    "label": "Notion com dicas de performance web/mobile",
-    "categoryId": "articles",
-    "url": "https://tinu.be/cssperf"
+    "label": "[TG] Temp Mail - Email Sementara",
+    "categoryId": "bot",
+    "url": "https://t.me/tempmailsementarabot"
   },
 
   {
-    "label": "[Indicação] Dicas e boas práticas de UI Design com Chief of Design",
-    "categoryId": "videos",
-    "url": "https://tinu.be/qeIBeN_W4"
+    "label": "Temporary Email Address",
+    "categoryId": "website",
+    "url": "https://tmailku.my.id"
   },
 
   {
-    "label": "tinu.be - encurtador de url open-source",
-    "categoryId": "projects",
-    "url": "https://tinu.be"
+    "label": "[TG] Pindai Gambar Ke Teks",
+    "categoryId": "bot",
+    "url": "https://t.me/PindaiGambarKeTeksBot"
   },
 
   {
-    "label": "Da teoria à prática: Criando um produto",
-    "categoryId": "articles",
-    "url": "https://tinu.be/tinubepost"
+    "label": "[TG] Brainly Belajar Terbaik",
+    "categoryId": "bot",
+    "url": "https://t.me/Brainly_IDBot"
   },
 
   {
-    "label": "A história por trás da landing page de planos da Nuvemshop",
-    "categoryId": "articles",
-    "url": "https://tinu.be/plansnuvem"
+    "label": "FudChat Ai ChatGPT Gemini Ai",
+    "categoryId": "website",
+    "url": "https://fud-chat.vercel.app/"
   },
 
   {
-    "label": "[ES] La historia detrás de la landing page de planes y precios de Tiendanube",
-    "categoryId": "articles",
-    "url": "https://tinu.be/planstiendanube"
+    "label": "Free BioLink",
+    "categoryId": "website",
+    "url": "https://biolink.eu.org/"
   }
 ]

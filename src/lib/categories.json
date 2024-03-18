@@ -1,19 +1,19 @@
 [
   {
-    "label": "Todos",
+    "label": "Semua",
     "id": "all"
   },
   {
-    "label": "Projetos",
-    "id": "projects"
+    "label": "Support",
+    "id": "support"
   },
   {
-    "label": "Artigos",
-    "id": "articles"
+    "label": "Bot",
+    "id": "bot"
   },
 
   {
-    "label": "Videos",
-    "id": "videos"
+    "label": "Website",
+    "id": "website"
   }
 ]
