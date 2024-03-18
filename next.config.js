@@ -5,7 +5,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'fuds.pages.dev'
+        hostname: 'pub-bc82d38d1f284c949d384b73d66520a7.r2.dev'
       }
     ]
   }
