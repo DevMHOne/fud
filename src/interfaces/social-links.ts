@@ -7,4 +7,5 @@ export default interface SocialLinksProps {
   linkedin?: string;
   instagram?: string;
   dribbble?: string;
+  tiktok?: string;
 }
