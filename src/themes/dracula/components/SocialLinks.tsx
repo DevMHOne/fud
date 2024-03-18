@@ -114,7 +114,6 @@ function SocialLinks({ socialLinks }: SocialLinksComponentProps) {
           <DribbbleLogo size={32} />
         </a>
       )}
-    </div>
 
       {!!socialLinks.tiktok && (
         <a
