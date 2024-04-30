@@ -8,4 +8,6 @@ export default interface SocialLinksProps {
   instagram?: string;
   dribbble?: string;
   tiktok?: string;
+  telegram?: string;
+  twitch?: string;
 }
