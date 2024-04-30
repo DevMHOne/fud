@@ -9,7 +9,9 @@ import {
   MediumLogo,
   TwitterLogo,
   YoutubeLogo,
-  TiktokLogo
+  TiktokLogo,
+  TelegramLogo,
+  TwitchLogo
 } from 'phosphor-react';
 
 interface SocialLinksComponentProps {
@@ -124,6 +126,30 @@ function SocialLinks({ socialLinks }: SocialLinksComponentProps) {
           aria-label="tiktok"
         >
           <TiktokLogo size={32} />
+        </a>
+      )}
+
+      {!!socialLinks.twitch && (
+        <a
+          className="transition-all group-hover:opacity-60 hover:!opacity-100 hover:-translate-y-[0.12rem]"
+          target="_blank"
+          rel="noreferrer"
+          href={socialLinks.twitch}
+          aria-label="twitch"
+        >
+          <TwitchLogo size={32} />
+        </a>
+      )}
+
+      {!!socialLinks.telegram && (
+        <a
+          className="transition-all group-hover:opacity-60 hover:!opacity-100 hover:-translate-y-[0.12rem]"
+          target="_blank"
+          rel="noreferrer"
+          href={socialLinks.telegram}
+          aria-label="telegram"
+        >
+          <TelegramLogo size={32} />
         </a>
       )}
     </div>
