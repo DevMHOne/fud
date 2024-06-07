@@ -51,5 +51,17 @@
     "label": "[WS] Free BioLink",
     "categoryId": "website",
     "url": "https://biolink.eu.org/"
+  },
+
+  {
+    "label": "[TG] Anonymouse Chat",
+    "categoryId": "bot",
+    "url": "https://t.me/anonymousetalkchat_bot"
+  },
+
+  {
+    "label": "[TG] Mawar",
+    "categoryId": "bot",
+    "url": "https://t.me/MissMawar_bot"
   }
 ]
